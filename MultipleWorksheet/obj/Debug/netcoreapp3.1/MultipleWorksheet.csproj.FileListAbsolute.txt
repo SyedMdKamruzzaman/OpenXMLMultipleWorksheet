@@ -1,0 +1,16 @@
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\bin\Debug\netcoreapp3.1\MultipleWorksheet.exe
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\obj\Debug\netcoreapp3.1\MultipleWorksheet.csprojAssemblyReference.cache
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\obj\Debug\netcoreapp3.1\MultipleWorksheet.AssemblyInfoInputs.cache
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\obj\Debug\netcoreapp3.1\MultipleWorksheet.AssemblyInfo.cs
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\bin\Debug\netcoreapp3.1\MultipleWorksheet.deps.json
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\bin\Debug\netcoreapp3.1\MultipleWorksheet.runtimeconfig.json
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\bin\Debug\netcoreapp3.1\MultipleWorksheet.runtimeconfig.dev.json
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\bin\Debug\netcoreapp3.1\MultipleWorksheet.dll
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\bin\Debug\netcoreapp3.1\MultipleWorksheet.pdb
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\obj\Debug\netcoreapp3.1\MultipleWorksheet.csproj.CoreCompileInputs.cache
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\obj\Debug\netcoreapp3.1\MultipleWorksheet.csproj.CopyComplete
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\obj\Debug\netcoreapp3.1\MultipleWorksheet.dll
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\obj\Debug\netcoreapp3.1\MultipleWorksheet.pdb
+E:\Users\user\source\repos\MultipleWorksheet\MultipleWorksheet\obj\Debug\netcoreapp3.1\MultipleWorksheet.genruntimeconfig.cache
